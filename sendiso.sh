@@ -1,0 +1,9 @@
+chmod +rwx kernel.bin
+chmod o+rwx kernel.bin
+chmod g+rwx kernel.bin
+chmod g+rwx bootloader.bin
+chmod o+rwx bootloader.bin
+chmod +rwx bootloader.bin
+chmod +rwx assemOS.flp
+chmod g+rwx assemOS.flp
+chmod o+rwx assemOS.flp
