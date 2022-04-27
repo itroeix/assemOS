@@ -9,4 +9,4 @@ Lo hice para aprender assembly y como funciona assembly.
 La carpeta "dev" es para compilar el código, para compilarlo tienes que mover los archivos de la carpeta "dev" a la carpeta raíz, o del contrario no funcionara.
 
 ### ¿Cómo consigo la ISO del sistema operativo?
-De momento esta abandona del proyecto, así que los archivos ISO están en el [repositorio de assemOS-iso](https://github.com/itroeix/assemOS-iso)
+De momento esta abandonado el proyecto, así que los archivos ISO están en el [repositorio de assemOS-iso](https://github.com/itroeix/assemOS-iso)
